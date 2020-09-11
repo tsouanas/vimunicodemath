@@ -11,11 +11,8 @@ Place `unicodemath.vim` somewhere and have `.vimrc` source it:
 source path/to/unicodemath.vim
 ```
 
-Then, in INSERT MODE typing something like
-```
-f : \\nats \\to \\nats
-```
-You should get `f : ℕ → ℕ`.
+Then, in INSERT MODE typing something like `f : \\nats \\to \\nats`
+you should get `f : ℕ → ℕ`.
 
 ## Symbols
 
