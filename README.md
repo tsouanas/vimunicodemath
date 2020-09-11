@@ -4,6 +4,20 @@ Mostly [ThaTeX] influenced math unicode inoremaps for your vim config file.
 
 [ThaTeX]: https://github.com/tsouanas/thatex
 
-See `symbols.md` for a list of all symbols defined.
+## Usage
 
+Place `unicodemath.vim` somewhere and have `.vimrc` source it:
+```
+source path/to/unicodemath.vim
+```
+
+Then, in INSERT MODE typing something like
+```
+f : \\nats \\to \\nats
+```
+You should get `f : ℕ → ℕ`.
+
+## Symbols
+
+See `symbols.md` for a list of all sequences defined and the corresponding symbols.
 
