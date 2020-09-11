@@ -16,5 +16,5 @@ you get `f : ℕ → ℕ`.
 
 ## Symbols
 
-See `symbols.md` for a list of all sequences defined and the corresponding symbols.
+See [symbols.md](symbols.md) for a list of all sequences defined and the corresponding symbols.
 
