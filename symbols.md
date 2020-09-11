@@ -1,8 +1,8 @@
 # List of symbols
 
 | Sequence | Symbol |
-| -------- | ------ |
-| `\\\` | \\ |
+| :------- | :----: |
+| `\\\` | \\\\ |
 | `\\section` | § |
 | `\\paragraph` | ¶ |
 | `\\checkyes` | ✓ |
